@@ -38,7 +38,7 @@ python main.py
 
 ## Demo
 
-![demoimage]([face](https://github.com/Santanu-Kumar-Padhy/Face-recognition/assets/153370977/90ee18cf-f509-4dbb-be66-913224ed83e6))
+![demoimage]([https://github.com/Santanu-Kumar-Padhy/Face-recognition/assets/153370977/90ee18cf-f509-4dbb-be66-913224ed83e6](https://github.com/Santanu-Kumar-Padhy/Face-recognition/blob/main/face.png)
 
 Image Only for Demonstration Purpose.
 
